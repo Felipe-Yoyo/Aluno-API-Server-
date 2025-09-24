@@ -1,29 +1,29 @@
 {
 "Alunos": [
   {
-    "nome": "Ana Silva",
+    "nome": "Ana Paula",
     "idade": 20
   },
   {
     "nome": "Bruno Costa",
-    "idade": 22
-  },
-  {
-    "nome": "Carla Mendes",
-    "idade": 19
-  },
-  {
-    "nome": "Diego Santos",
     "idade": 21
   },
   {
-    "nome": "Eduarda Lima",
+    "nome": "Carlos Henrique",
+    "idade": 22
+  },
+  {
+    "nome": "Claudio Monteiro",
+    "idade": 23
+  },
+  {
+    "nome": "Fernando Ebrahim",
     "idade": 20
   }
 ],
 "Boletim": [
   {
-    "nota": [8.5, 7.2, 9.0],
+    "nota": [8.5, 7.0, 9.0],
     "frequencia": [1, 1, 1, 0, 1, 1, 0, 1, 1, 1]
   },
   {
@@ -31,15 +31,15 @@
     "frequencia": [1, 0, 1, 1, 0, 1, 1, 1, 0, 1]
   },
   {
-    "nota": [9.0, 8.8, 9.5],
+    "nota": [9.0, 9.0, 9.5],
     "frequencia": [1, 1, 1, 1, 1, 1, 1, 0, 1, 1]
   },
   {
-    "nota": [7.5, 6.8, 7.9],
+    "nota": [7.5, 6.0, 8.0],
     "frequencia": [0, 1, 1, 0, 1, 0, 1, 1, 1, 1]
   },
   {
-    "nota": [8.0, 8.3, 8.7],
+    "nota": [8.0, 8.5, 8.5],
     "frequencia": [1, 1, 1, 1, 0, 1, 1, 1, 0, 1]
   }
   ]
